@@ -1,0 +1,17 @@
+chengyu_vivo
+chengyu_xiaomi
+chengyu_oppo
+chengyu_huawei
+chengyu_baidu
+chengyu_360
+chengyu_wandoujia
+chengyu_meizu
+chengyu_sanxing
+chengyu_yingyonghui
+chengyu_anzhi
+chengyu_lianxiang
+chengyu_sougou
+chengyu_mumayi
+chengyu_liqu
+chengyu_jifeng
+chengyu_yingyongbao
